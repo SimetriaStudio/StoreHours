@@ -1,0 +1,26 @@
+{
+   "x-mas-eve": {
+      "date": {"m": "December", "d": "24", "y": "2019"},
+      "open": { "hr": "8", "min": "00", "amPm": "am" },
+      "close": { "hr": "6", "min": "00", "amPm": "pm" },
+      "msg": "Merry Christmas"
+   },
+   "x-mas-day": {
+      "date": {"m": "December", "d": "25", "y": "2019"},
+      "open": { "hr": "8", "min": "00", "amPm": "am" },
+      "close": { "hr": "7", "min": "00", "amPm": "pm" },
+      "msg": "Merry Christmas"
+   },
+   "new-years-eve": {
+      "date": {"m": "December", "d": "31", "y": "2019"},
+      "open": { "hr": "10", "min": "00", "amPm": "am" },
+      "close": { "hr": "4", "min": "00", "amPm": "pm" },
+      "msg": "Happy New Year!!!"
+   },
+   "new-years-day": {
+      "date": {"m": "January", "d": "1", "y": "2019"},
+      "open": { "hr": "8", "min": "00", "amPm": "am" },
+      "close": { "hr": "9", "min": "00", "amPm": "pm" },
+      "msg": "Happy 2019"
+   }
+}

@@ -1,0 +1,51 @@
+*{margin:0;box-sizing:border-box;}
+body{font-family:"Arial";font-size:15px;}
+h3{font-style:italic;margin:10px 0;}
+
+.wrapper {
+   width: 90%;
+   max-width: 900px;
+   margin: 0 auto;
+}
+
+footer {
+   background: #eee;
+   width: 100%;
+   text-align: center;
+   position: fixed;
+   bottom: 0;
+   padding: 50px 50px 20px 50px;
+}
+
+footer h1 {
+   margin: 0 0 20px 0;
+   padding: 0 0 20px 0;
+   border-bottom: 1px solid #ccc;
+}
+
+footer .store-name {
+   font-size: 1.5em;
+   text-decoration: underline;
+   margin: 10px 0;
+}
+
+footer .footerWrapper {
+   display: flex;
+   flex-direction: row;
+   margin: 0 0 30px 0;
+}
+
+footer .footerWrapper div{
+   flex: 1;
+}
+
+.img-404 {
+   width: 30%;
+   display: block;
+   margin: 0 auto;
+}
+
+.h3-404 {
+   font-size: 2em;
+   text-align: center;
+}

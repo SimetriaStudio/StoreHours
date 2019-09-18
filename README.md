@@ -1,1 +1,2 @@
 # StoreHours
+A php component to display store hours and also detect when its a holiday observed by the user/store. It can also display an everyday message and a holiday specific message Ie.: "Merry X-Mas!"

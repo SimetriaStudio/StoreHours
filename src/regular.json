@@ -1,0 +1,76 @@
+{
+   "westfield": {
+      "sunday": {
+         "open": { "hr": "8", "min": "00", "amPm": "am" },
+         "close": { "hr": "6", "min": "00", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "monday": {
+         "open": { "hr": "8", "min": "00", "amPm": "am" },
+         "close": { "hr": "7", "min": "00", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "tuesday": {
+         "open": { "hr": "10", "min": "00", "amPm": "am" },
+         "close": { "hr": "4", "min": "00", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "wednesday": {
+         "open": { "hr": "9", "min": "00", "amPm": "am" },
+         "close": { "hr": "5", "min": "30", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "thursday": {
+         "open": { "hr": "10", "min": "00", "amPm": "am" },
+         "close": { "hr": "4", "min": "00", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "friday": {
+         "open": { "hr": "8", "min": "00", "amPm": "am" },
+         "close": { "hr": "9", "min": "00", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "saturday": {
+         "open": { "hr": "8", "min": "00", "amPm": "am" },
+         "close": { "hr": "9", "min": "00", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      }
+   },
+   "mountainside": {
+      "sunday": {
+         "open": { "hr": "6", "min": "30", "amPm": "am" },
+         "close": { "hr": "5", "min": "30", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "monday": {
+         "open": { "hr": "6", "min": "30", "amPm": "am" },
+         "close": { "hr": "5", "min": "30", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "tuesday": {
+         "open": { "hr": "6", "min": "30", "amPm": "am" },
+         "close": { "hr": "5", "min": "30", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "wednesday": {
+         "open": { "hr": "6", "min": "30", "amPm": "am" },
+         "close": { "hr": "5", "min": "30", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "thursday": {
+         "open": { "hr": "6", "min": "30", "amPm": "am" },
+         "close": { "hr": "5", "min": "30", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "friday": {
+         "open": { "hr": "6", "min": "30", "amPm": "am" },
+         "close": { "hr": "5", "min": "30", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      },
+      "saturday": {
+         "open": { "hr": "6", "min": "30", "amPm": "am" },
+         "close": { "hr": "5", "min": "30", "amPm": "pm" },
+         "msg": "Open 365 Days a Year!"
+      }
+   }
+}
